@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Model Weights (Huge files)
+*.pt
+*.bin
+*.safetensors
+llama-3-3b/
+
+# IDE
+.vscode/
+.idea/
